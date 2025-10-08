@@ -63,3 +63,22 @@
 # Output
 # * Number of toys
 # * Total money (formatted with 2 decimal places)
+
+# Lily is N years old.
+# On every odd birthday (1, 3, 5, …) → she gets 1 toy.
+# On every even birthday (2, 4, 6, …) → she gets money.
+# The money starts at ₹10 on her 2nd birthday.
+# On each next even birthday, it increases by ₹10 more:
+# 2nd birthday → ₹10
+# 4th birthday → ₹20
+# 6th birthday → ₹30
+# and so on.
+# At the end, print the following:
+# * Number of toys Lily has.
+# * Total money she has (money from even birthdays after brother takes ₹1).
+# Input
+# * Lily’s age (N)
+# * Nothing else (price of toys is not needed because we are not selling)
+# Output
+# * Number of toys
+# * Total money (formatted with 2 decimal places)
